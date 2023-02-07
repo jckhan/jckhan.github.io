@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jack Han"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+You can reach me via email: `jackhan [at] alumni.stanford.edu`
+
 Title
-======
+------
 Lorem ipsum.
