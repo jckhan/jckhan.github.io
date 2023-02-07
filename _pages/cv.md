@@ -14,7 +14,7 @@ Education
 * **Stanford University**, Stanford, CA, Sep 2019 - Jun 2021
   * M.S. in Mechanical Engineering
   * Courses: Robot Autonomy, Deep Learning for Computer Vision, Reinforcement Learning
-* **University of Toronto**, Toronto, Canada, Sep 2014 - Apr 2021
+* **University of Toronto**, Toronto, Canada, Sep 2014 - Apr 2019
   * B.A.Sc. in Mechanical Engineering
   * Minors: Robotics & Mechatronics, Bioengineering
   * Courses: Mechatronics Systems, Feedback Control Systems, Mechanical Design
@@ -26,7 +26,7 @@ Education
 *M.S. in Mechanical Engineering*
   * Courses: Robot Autonomy, Deep Learning for Computer Vision, Reinforcement Learning
 
-**University of Toronto**, Toronto, Canada, Sep 2014 - Apr 2021\
+**University of Toronto**, Toronto, Canada, Sep 2014 - Apr 2019\
 *B.A.Sc. in Mechanical Engineering*
   * Minors: Robotics & Mechatronics, Bioengineering
   * Courses: Mechatronics Systems, Feedback Control Systems, Mechanical Design
